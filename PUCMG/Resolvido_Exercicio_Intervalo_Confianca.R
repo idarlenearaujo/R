@@ -13,6 +13,7 @@ cbind(inferior, superior)
 
 # 2
 # var desconhecido -> calcular desvio amostral
+# Média
 n = 5
 c = 0.99
 vetor_vigas = c(230.33, 233.05, 232.58, 229.48, 232.58)
@@ -49,6 +50,7 @@ confianca
 
 # 5
 # Var desconhecido
+# Media
 n = 16
 media = 60139.7
 desvio_amostral = 3645.94
