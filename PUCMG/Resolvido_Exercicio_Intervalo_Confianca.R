@@ -50,7 +50,7 @@ confianca
 
 # 5
 # Var desconhecido
-# Media
+# Média
 n = 16
 media = 60139.7
 desvio_amostral = 3645.94
