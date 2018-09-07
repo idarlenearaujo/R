@@ -1,0 +1,13 @@
+1 - Sabe-se que a vida em horas de um bulbo de uma lâmpada de 75 W é distribuída normalmente com σ = 25  horas. Uma amostra aleatória de 20 bulbos tem uma vida média de x ¯ = 1014  horas. O intervalo de confiança de 95% para a vida média é igual a?
+
+2 - Um artigo no Journal of Composite Materials (Dezembro de 1989, Vol. 23, p. 1200) descreve o efeito da delaminação na frequência natural de vigas feitas de laminados compósitos. Cinco dessas vigas delaminadas foram submetidas a cargas e as frequências (em Hz) resultantes foram obtidas pelos seguintes valores:
+
+230,33  |  233,05   |   232,58   |   229,48   |   232,58
+
+Supondo que a variável em estudo segue a distribuição Normal, o intervalo de 99% de confiança sobre a frequência média é igual a?
+
+3 - Um estudo realizado para avaliar a fração de circuitos integrados defeituosos em um processo de fotolitografia, obteve como resultado um total de 13 defeitos em 300 circuitos investigados. Um intervalo de 90% de confiança para proporção de circuitos defeituosos é igual a?
+
+4 - Uma pesquisa envolvendo 1000 pacientes selecionados aleatoriamente, observou que 823 deles, durante 10 anos, faleceram por causa de câncer de pulmão. Um intervalo de confiança retornou os valores de 0,799344 a 0,846656. O nível de confiança utilizado pelo pesquisador foi de?
+
+5 - Um engenheiro do setor de pesquisa de um fabricante de pneu está investigando a vida do pneu em relação a um novo componente da borracha. Ele fabricou 16 pneus e testou-os até o final da vida em teste na estrada. A média e o desvio-padrão da amostra são, respectivamente, 60.139,7 e 3.645,94 km. O intervalo de confiança de 95% para a vida média do pneu é igual a?
