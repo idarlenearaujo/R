@@ -1,30 +1,16 @@
-1 - Um sensor tem vida média de 1500 dias com desvio padrão de 70 dias que tem distribuição aproximadamente normal. 
-A partir desta informação são feitas as afirmações:
+1 - Um sensor tem vida média de 1500 dias com desvio padrão de 70 dias que tem distribuição aproximadamente normal. A partir desta informação são feitas as afirmações:
 
 I. O número máximo de dias necessários para que se tenha que repor no máximo 5% dos produtos é 1615 dias.
-
 II. O número máximo de dias necessários para que se tenha que repor no máximo 5% dos produtos é 1385 dias.
-
 III. A probabilidade de este sensor durar entre 1500 e 1570 dias é 0,3413.
 
 Quais está(ão) correta(s)?
 
-2 - Antes de lançar um novo carro no mercado as montadoras fazem testes com alguns protótipos, 
-cujo objetivo é alcançar a melhor performance possível, dentro da sua categoria. 
-Em testes com seu novo carro RBX em uma superfície seca, a distância de frenagem média foi 145 pés e o desvio padrão 6,53 pés.
-As distâncias de frenagem do carro são normalmente distribuídas. 
-Qual é a maior distância de frenagem em uma superfície seca que um desses RBX poderia ter e ainda estar no 1,5% do topo?
+2 - Antes de lançar um novo carro no mercado as montadoras fazem testes com alguns protótipos, cujo objetivo é alcançar a melhor performance possível, dentro da sua categoria. Em testes com seu novo carro RBX em uma superfície seca, a distância de frenagem média foi 145 pés e o desvio padrão 6,53 pés. As distâncias de frenagem do carro são normalmente distribuídas. Qual é a maior distância de frenagem em uma superfície seca que um desses RBX poderia ter e ainda estar no 1,5% do topo?
 
-3 - Suponha que o número de eleitores que chegam a uma seção de uma Zona Eleitoral no dia de uma determinada eleição,
-siga a uma distribuição de Poisson com uma média de chegada de 30 eleitores por meia hora. 
-A probabilidade de que cheguem menos de 3 eleitores em 5 minutos é?
+3 - Suponha que o número de eleitores que chegam a uma seção de uma Zona Eleitoral no dia de uma determinada eleição, siga a uma distribuição de Poisson com uma média de chegada de 30 eleitores por meia hora. A probabilidade de que cheguem menos de 3 eleitores em 5 minutos é?
 
-4 - O período de estiagem liga um sinal de alerta quanto ao abastecimento de água das grandes cidades. 
-Certa cidade brasileira possui várias adutoras que abastecem de água seus bairros, então verifica-se que a 
-probabilidade de uma dessas adutoras, nessas condições, não ter problemas na distribuição de água seja de 0,2. 
-Dez dessas adutoras são observadas e assim deseja-se estimar a probabilidade de que pelo menos uma dessas adutoras 
-funcione perfeitamente, isto é, não traga problemas para o abastecimento de água da população?
+4 - O período de estiagem liga um sinal de alerta quanto ao abastecimento de água das grandes cidades. Certa cidade brasileira possui várias adutoras que abastecem de água seus bairros, então verifica-se que a probabilidade de uma dessas adutoras, nessas condições, não ter problemas na distribuição de água seja de 0,2. Dez dessas adutoras são observadas e assim deseja-se estimar a probabilidade de que pelo menos uma dessas adutoras funcione perfeitamente, isto é, não traga problemas para o abastecimento de água da população?
 
-5 - O tempo de vida de um arranjo mecânico em um teste vibracional é distribuído exponencialmente, 
-com uma média de 400 horas (λ = 1/400). A probabilidade de que um arranjo em teste falhe em menos de 100 horas é?
+5 - O tempo de vida de um arranjo mecânico em um teste vibracional é distribuído exponencialmente, com uma média de 400 horas (λ = 1/400). A probabilidade de que um arranjo em teste falhe em menos de 100 horas é?
 
