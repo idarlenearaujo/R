@@ -45,12 +45,13 @@ ppois(5, param) - ppois(1, param)
 
 # --
 # 5
-param = 2
+lamb = 2
 
 # x >= 1
-ppois(0, param, lower.tail = F)
+1 - pexp(1, param, lower.tail = F)
 # x = 2
-dpois(2, param)
+t = pexp(2, param, lower.tail = F)
+1 - t
 
 # --
 # 6
