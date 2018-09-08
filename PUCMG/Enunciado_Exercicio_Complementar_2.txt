@@ -1,0 +1,84 @@
+1 - A durabilidade de um tipo de pneu da marca Rodabem é descrita por
+uma variável aleatória Normal de média 60000 km e de desvio padrão
+de 8300 km. A quilometragem máxima que o fabricante deverá aceitar
+como garantia de tal forma que apenas 2% dos pneus tenham que ser
+substituídos, será de?
+
+2 - Um sensor tem vida média de 2000 dias com desvio padrão de 80 dias.
+O sensor tem distribuição aproximadamente normal. A partir desta
+informação são feitas as afirmações:
+I. O número máximo de dias necessários para que se tenha que repor
+no máximo 5% dos produtos é 1750,412 dias.
+II. O número máximo de dias necessários para que se tenha que repor
+no máximo 95% dos produtos é 2131,588 dias.
+III. A probabilidade de este sensor durar entre 2100 e 2200 dias é
+0,09944.
+Está(ão) correta(s) a(s) afirmação(ões)?
+
+3 - Uma pesquisa envolvendo 1000 pacientes selecionados
+aleatoriamente, observou que 823 deles, durante 10 anos, faleceram
+por causa de câncer de pulmão. Um intervalo de confiança retornou os
+valores de 0,799344 a 0,846656. O nível de confiança utilizado pelo
+pesquisador foi de?
+
+4 - Em uma determinada empresa trabalham quatro analistas de mercado,
+dois supervisores, um chefe de seção e um gerente. Os salários de
+cada cargo são, respectivamente: R$ 1.600,00; R$ 1.800,00; R$
+2.750,00 e R$ 5.000,00. O valor do salário médio desses funcionários
+é?
+
+5 - Sabe-se que a vida, em horas, de uma bateria é aproximadamente
+normalmente distribuída, com desvio-padrão 1,87 hora. Uma
+amostra aleatória de 17 baterias tem uma vida média de 36,3 horas. O
+valor p que avalie que a vida da bateria exceda 35 horas é igual a?
+
+6 - Uma amostra aleatória de 50 capacetes de corredores de motos e de
+automóveis foi sujeita a um teste de impacto, sendo observado algum
+dano em 10 desses capacetes. Se o fabricante garante que até 10% de
+seus capacetes suportam os danos em um acidente (similar ao teste
+realizado), você diria que esses capacetes estão aprovados para a
+venda ao consumidor final? O valor p que sinaliza sobre a rejeição ou
+não da hipótese nula é igual a?
+
+7 - Estão sendo estudadas as taxas de queima de dois diferentes
+propelentes sólidos usados no sistema de escapamento de aeronaves.
+Sabe-se que ambos os propelentes têm aproximadamente os mesmo
+desvio-padrão, ou seja,ds1 = ds2 e que essas taxas seguem
+distribuição normal. Duas amostras aleatórias de n1 = 20 e n2 = 18
+ espécimes foram testadas resultando em taxas médias de 18 cm/s e
+desvio de 2,8 cm/s para a primeira amostra e de média de 21 cm/s e
+desvio de 3,0 cm/s na segunda. O valor p para avaliar se a taxa média
+dos dois propelentes vem da mesma população ou não é igual a?
+
+8 - A Média é uma das medidas de tendência central e seus valores se
+posicionam dentro de um conjunto numérico e visam fornecer ao
+pesquisador informações representativas do núcleo das observações
+de um fenômeno relativo a qualquer campo da atividade humana. E de
+modo geral, o Desvio Padrão representa a mais clássica medida de
+dispersão da Estatística. Sua associação ao valor da média, somado
+ou subtraído, permite encontrar e determinar as frequências relativas
+dos valores analisados.
+Foi coletado uma amostra das notas de 10 alunos da disciplina de
+Análise e Interpretação de Dados dos cursos de tecnólogos da
+Faculdade ENSINA PARA VIDA REAL.
+21 25 23 20 18 21 18
+19 22 24
+Com base nesta amostra calcule o valor da nota média e o desvio
+padrão da nota desta disciplina.
+
+9 - Antes mesmo de entrar na parte da estatística descritiva, após a coleta
+dos dados, é importante saber qual o tipo de dados irá trabalhar. Em
+uma pesquisa, foram coletadas as seguintes variáveis de um total de
+200 pessoas.
+Idade
+Renda
+Estado Civil
+Escolaridade
+Número de Aparelhos de TV na Residência
+Grau de Satisfação sobre a TV a Cabo (1 – Péssimo a 5 – Ótimo)
+A classificação correta dessas seis variáveis são?
+
+10 - Em um sistema automático de irrigação, a altura das plantas, duas
+semanas depois de germinar, é distribuída normalmente, com uma
+média de 2,5 centímetros e um desvio padrão de 0,5 centímetro. A
+probabilidade de a altura da planta ser maior que 3,5 centímetros é?
