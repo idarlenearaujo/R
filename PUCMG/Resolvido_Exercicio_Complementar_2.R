@@ -72,10 +72,10 @@ cbind(media, desvio)
 # estado civil - qualitativa
 # escolaridade - qualitativa
 # aparelhos - quantitativo
-# satisfação - qualitativo
+# satisfaÃ§Ã£o - qualitativo
 
-# 10 ???????
+# 10
 media = 2.5
 desvio = 0.5
 # x > 3.5
-tsum.test(2.5, 0.5, 2, alternative = 'greater', mu = 3.5, var.equal = T)
+pnorm(3.5, 2.5, 0.5, lower.tail = F)
