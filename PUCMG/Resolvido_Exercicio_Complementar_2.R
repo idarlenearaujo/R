@@ -50,6 +50,9 @@ z = (media - 35) / (desvio/sqrt(n))
 p_value = pnorm(z, 0, 1, lower.tail = F)
 p_value
 
+# OU
+zsum.test(media, desvio, n, mu = 35, alternative = 'greater')
+
 # 6
 n = 50
 p = 10/50
